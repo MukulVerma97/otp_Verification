@@ -1,6 +1,7 @@
 # phone_login
 
-A new Flutter project.
+A new Flutter project based otp verfication with firebase
+
 
 ## Getting Started
 
